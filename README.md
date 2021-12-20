@@ -1,2 +1,6 @@
 # react-demo
-Created with CodeSandbox
+
+Run DevServer
+```node.js
+yanr start
+```
